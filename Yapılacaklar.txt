@@ -1,0 +1,49 @@
+C:\Program Files
+C:\Program Files\7-Zip
+C:\Program Files\azizenes2
+
+
+
+
+//  select * from C:\
+
+select * from C:\program files\azizenes
+
+select * from C:\program files\7-zip
+
+select type from C:\program files\azizenes where type=directory
+
+select size,permission from c:\program files\azizenes where size=2 bytes&&permission=0666
+
+// select name,type from C:\program files\azizenes where name=1.docx&&type=application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+select type,size,permission from c:\program files\azizenes where type=text/plain&&size=2 bytes&&permission=0666
+
+select size,permission,modifieddate from c:\program files\azizenes where size=2 bytes&&permission=0666&&modifieddate=January 14 2021 13:53:27
+
+//   select name,size,modifieddate,permission from c:\program files\azizenes where name=2.txt&&size=2 bytes&&modifieddate=January 14 2021 13:53:27&&permission=0666
+
+//   select name,type,size,modifieddate,permission from c:\program files\azizenes where name=2.txt&&type=text/plain&&size=2 bytes&&modifieddate=January 14 2021 13:53:27&&permission=0666
+
+
+Silme
+
+
+delete from c:\program files\azizenes2 where type=text/plain&&size=4 bytes
+delete from c:\program files\azizenes2 where name=1
+
+
+HATALAR
+
+select name from c:\ where name=
+select name,size from c:\ where name=abc,size=100k
+select name,size from c:\ where name=abc
+select name from c:\
+
+
+
+
+
+
+
+
