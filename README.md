@@ -38,5 +38,5 @@ işletim sisteminde dosya araması yapmış oluruz.
 [issues-shield]: https://img.shields.io/github/issues/EnesGelmez/Web_Tabanli_Disk_Dosya_Islemleri.svg?style=for-the-badge
 [issues-url]: https://github.com/EnesGelmez/Web_Tabanli_Disk_Dosya_Islemleri/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/enes-gelmez-514397197/
+[linkedin-url]: https://www.linkedin.com/in/enesgelmez/
 [product-screenshot]:3.png
